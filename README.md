@@ -13,7 +13,7 @@ It usees nice colors for the output for better readability.
    
 ### How to run
     
-    python compare_hadoop_conf.py conf-cdh5-staging bad-conf
+    python compare_hadoop_conf.py <base-conf-directory> <new-conf-directory>
     
 ### Sample output
 

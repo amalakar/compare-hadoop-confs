@@ -15,7 +15,7 @@ It usees nice colors for the output for better readability.
     
     python compare_hadoop_conf.py conf-cdh5-staging bad-conf
     
-### Sample outpu
+### Sample output
 
     Added configuration:
 
